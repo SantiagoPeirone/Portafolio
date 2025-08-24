@@ -71,30 +71,18 @@
             </ul>
         </div>
 
-        <div class="card p-4 mb-4">
-            <h2>Experiencia Laboral</h2>
-            <ul class="list-group list-group-flush">
-                <li class="list-group-item">
-                    <strong>Cocinero</strong> - Restobar Malcriada (01/01/2022 - 07/04/2022)
-                    <ul>
-                        <li>Participación en eventos de alta demanda.</li>
-                        <li>Asistencia en eventos posteriores a la renuncia.</li>
-                    </ul>
-                </li>
-            </ul>
-        </div>
 
         <div class="card p-4 mb-4">
             <h2>Habilidades</h2>
             <ul class="list-group">
-                <li class="list-group-item">✅ Administración de servidores Linux (Ubuntu, Debian, CentOS)</li>
-                <li class="list-group-item">✅ Manejo de contenedores Docker y orquestación con Kubernetes</li>
-                <li class="list-group-item">✅ Cloud Computing: Experiencia con AWS y Azure</li>
-                <li class="list-group-item">✅ Administración de servidores Linux (Ubuntu, Debian, CentOS).</li>
-                <li class="list-group-item">✅ Programación en Python, PHP y SQL (nivel básico).</li>
-                <li class="list-group-item">✅ Configuración de redes y servidores.</li>
-                <li class="list-group-item">✅ Edición de videos con CapCut y administración de herramientas de Microsoft 365.</li>
-                <li class="list-group-item">✅ Programación de microcontroladores en C.</li>
+                <li class="list-group-item">- Administración de servidores Linux (Ubuntu, Debian, CentOS)</li>
+                <li class="list-group-item">- Manejo de contenedores Docker y orquestación con Kubernetes</li>
+                <li class="list-group-item">- Cloud Computing: Experiencia con AWS y Azure</li>
+                <li class="list-group-item">- Administración de servidores Linux (Ubuntu, Debian, CentOS).</li>
+                <li class="list-group-item">- Programación en Python, PHP y SQL (nivel básico).</li>
+                <li class="list-group-item">- Configuración de redes y servidores.</li>
+                <li class="list-group-item">- Edición de videos con CapCut y administración de herramientas de Microsoft 365.</li>
+                <li class="list-group-item">- Programación de microcontroladores en C.</li>
             </ul>
         </div>
 
@@ -102,9 +90,22 @@
             <h2>Certificaciones y Cursos</h2>
             <ul class="list-group">
                 <li class="list-group-item">Excel - Santander Open Academy (07/07/2024)</li>
+                <li class="list-group-item">MySQL - EducaciónIT (21/06/2025)</li>
             </ul>
         </div>
 
+                <div class="card p-4 mb-4">
+            <h2>Experiencia Laboral</h2>
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">
+                    <strong>Cocinero</strong> - Restobar Malcriada (01/01/2022 - 07/04/2022)
+                    <ul>
+                        <li>Participación en eventos de alta demanda.</li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        
         <div class="card p-4 mb-4">
             <h2>Idiomas</h2>
             <ul class="list-group">
@@ -112,13 +113,9 @@
                 <li class="list-group-item">Inglés: Básico (A2)</li>
             </ul>
         </div>
-
-        <div class="card p-4 mb-4">
-            <h2>Referencias</h2>
-            <p>Disponibles a solicitud.</p>
-        </div>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
+
